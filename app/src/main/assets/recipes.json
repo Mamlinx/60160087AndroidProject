@@ -1,0 +1,93 @@
+{
+  "recipes": [
+    {
+      "title": "Standard Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-01(1).jpg",
+      "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a11249/grilled-deviled-chickens-under-brick-mslo0510-recipe/",
+      "description": "ขนาดห้องมาตรฐาน สำหรับพักได้ไม่เกิน 2 ท่าน เตียงคู่ จำนวน 1 เตียง ห้องน้ำในตัว ไม่มีระเบียง และมีบริการอาหารเช้า - Price : 500",
+      "price" : "500",
+      "servings": 4,
+      "dietLabel": "Low-Carb"
+    },
+
+    {
+      "title": "Superior and Deluxe Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-02(1).jpg",
+      "url": "http://www.seriouseats.com/recipes/2011/06/stir-fried-rice-with-chinese-sausage-recipe.html",
+      "description": "ขนาดห้องมาตรฐาน สำหรับพักได้ไม่เกิน 2 ท่าน เตียงคู่ จำนวน 1 เตียง หรือเตียงเดี่ยว จำนวน 2 เตียง ห้องน้ำในตัว มีระเบียง และมีบริการอาหารเช้า - Price : 800",
+      "price" : "800",
+      "servings": 4,
+      "dietLabel": "Balanced"
+    },
+
+    {
+      "title": "Suite Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-03.jpg",
+      "url": "http://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
+      "description": "ขนาดห้องกว้าง สำหรับพักได้ไม่เกิน 3 ท่าน เตียงคู่แบบควีนไซต์ จำนวน 1 เตียง มีโซฟา ห้องน้ำในตัว มีระเบียง และมีบริการอาหารเช้า - Price : 1200",
+      "price" : "1200",
+      "servings": 4,
+      "dietLabel": "Medium-Carb"
+     },
+
+    {
+      "title": "Family Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-09.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
+      "description": "ขนาดห้องกว้าง สำหรับพักได้ 4-6 ท่าน เตียงคู่แบบควีนไซต์ จำนวน 2 เตียง และเตียงเดี่ยว จำนวน 1 เตียง มีเฟอร์นิเจอร์ครบคัน ห้องน้ำในตัว มีระเบียง และมีบริการอาหารเช้า - Price : 1800",
+      "price" : "1800",
+      "servings": 4,
+      "dietLabel": "Low-Fat"
+    },
+
+    {
+      "title": "Studio Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-10.jpg",
+      "url": "http://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
+      "description": "ห้องพักขนาดกว้าง 1 ห้องนั่งเล่น 1 ห้องนอน สำหรับพักได้ 3-4 ท่าน เตียงคิงไซต์ 1 เตียง โซฟาปรับเป็นที่นอนได้ 1 โซฟา เฟอร์ครบคัน ห้องน้ำในตัว พร้อมอ่างอาบน้ำ มีระบียง และบริการหารเช้า - Price : 2600",
+      "price" : "2600",
+      "servings": 12,
+      "dietLabel": "Vegetarian"
+     },
+
+    {
+      "title": "Connecting Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-11.jpg",
+      "url": "http://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
+      "description": "ห้องพักขนาดมาตรฐาน 2 ห้อง สำหรับพัก 3-4 ท่าน เตียงควีนไซต์ทั้ง 2 ห้อง มีประตูเชื่อมหากัน มีห้องน้ำในตัวทุกห้อง เฟอร์นิเจอร์ครบคัน และบริการอาหารเช้า - Price : 2000",
+      "price" : "2000",
+      "servings": 42,
+      "dietLabel": "Low-Sodium"
+     },
+
+    {
+      "title": "Duplex Room",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-04.jpg",
+      "url": "http://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
+      "description": "ห้องพัก2 ชั้น 1 ห้องเล่น 1 ห้องครัว 1 ห้องนอน สำหรับพักได้ 3-4 ท่าน เตียงคิงไซต์ 1 เตียง โซฟาปรับเป็นที่นอนได้ 1 โซฟา เฟอร์ครบคัน ห้องน้ำในตัว พร้อมอ่างอาบน้ำ มีระบียง และบริการหารเช้า - Price : 3000",
+      "price" : "3000",
+      "servings": 10,
+      "dietLabel": "Low-Carb"
+    },
+
+    {
+      "title": "OCEAN VIEW",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-08.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
+      "description": "ห้องพักสุดหรู เห็นวิวทะเล ระเบียงยื่นสู่ทะเล สไลด์เดอร์ สำหรับพักได้ 1-2 ท่าน เตียงคิงไซต์ 1 เตียง เฟอร์ครบคัน ห้องน้ำในตัว พร้อมอ่างอาบน้ำ และบริการหารเช้า - Price : 3500",
+      "price" : "3500",
+      "servings": 6,
+      "dietLabel": "Vegetarian"
+     },
+
+    {
+      "title": "Villa",
+      "image" : "https://th.traveligo.com/gomoment/uploads/images/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%B1%E0%B8%81-05.jpg",
+      "url": "http://www.marthastewart.com/314096/buttermilk-creams-with-strawberries",
+      "description": "บ้านพักขนาด 1 ห้องนั่งเล่น 3 ห้องน้ำ 3 ห้องนอน 1 ห้องครัว และสระว่ายน้ำส่วยตัว สำหรับพัก 6-8 ท่าน เฟอร์นิเจอร์ครบคัน พร้อมโต๊ะสนุ๊ก และบริการอาหารเช้า - Price : 4000 ",
+      "price" : "4000",
+      "servings": 8,
+      "dietLabel": "Low-Sodium"
+    }
+  ]
+}
